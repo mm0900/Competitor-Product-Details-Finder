@@ -3,6 +3,10 @@
 
 This tool helps users find competitive products based on the provided product URL. It extracts details from the product and identifies competitors that offer similar functionality, features, and price ranges.
 
+Live Demo:
+You can try out the product details finder live here:  
+[**Live Demo**](https://www.gumloop.com/interface/Competitor-Product-Details-Finder-e3LJrjbq6gNesoDZu3FKVB)
+
 ## Features:
 - Users can input any product URL.
 - The tool fetches product details.
