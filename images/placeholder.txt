@@ -1,1 +1,10 @@
+# Images Folder - Product Details Finder
 
+This folder contains images associated with the " Competitor Product Details Finder" project. The images demonstrate various features, user interface components, and visual examples of the project in action.
+
+## Contents:
+1. **workflow.png** – A screenshot showing the main interface of the Product Details Finder tool and processing a product URL and fetching competitor products.
+2. **interface.png** – A visual representation of a sample product with competitive comparisons.
+4. **output.png** – Output of the project.
+
+These images are used in the README.md file and documentation to help explain how the project works and showcase its features.
